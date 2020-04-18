@@ -1,0 +1,3 @@
+@@||googleadservices.com^
+@@||doubleclick.net^
+@@||amazon-adsystem.com^
