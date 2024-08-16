@@ -1,3 +1,4 @@
 @@||googleadservices.com^
 @@||doubleclick.net^
 @@||amazon-adsystem.com^
+@@||sentry.io^
